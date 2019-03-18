@@ -108,7 +108,7 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 ![alt text][image1]
 
-I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to correct on over steering in a given direction. Thes image show what a recovery looks like starting from the left side :
+I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to correct on over steering in a given direction. This image shows what a recovery looks like starting from the left side :
 
 ![alt text][image2]
 

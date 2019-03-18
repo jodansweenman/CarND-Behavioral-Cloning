@@ -28,7 +28,7 @@ My project includes the following files:
 * model.py containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
 * model.h5 containing a trained convolution neural network 
-* writeup_report.md or summarizing the results
+* writeup_report.md summarizing the results
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
@@ -111,12 +111,10 @@ To capture good driving behavior, I first recorded two laps on track one using c
 I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to correct on over steering in a given direction. These images show what a recovery looks like starting from the left side :
 
 ![alt text][image2]
-![alt text][image3]
 
 This is what it looks like starting from the right side:
 
 ![alt text][image4]
-![alt text][image5]
 
 Then I repeated this process several time in order to get lots of data points.
 
